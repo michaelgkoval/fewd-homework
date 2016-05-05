@@ -115,9 +115,9 @@ h2 {
 }
 
 #hero {
-  height: 500px;
-  background: url(../images/LOS-ANGELES.jpg) no-repeat top center #131e27;
-  padding-top: 125px;
+  height: 745px;
+  background: url(../images/LOS-ANGELES-bg.jpg) no-repeat top center #131e27;
+  padding-top: 165px;
 }
 
 #hero .contact {
@@ -305,7 +305,7 @@ footer p {
   }
   #hero h2 {
     font-size: 37px;
-    margin: 40px 0 60px;
+    margin: 20px 0 60px;
   }
   #resume {
     background: #;
