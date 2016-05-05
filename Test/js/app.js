@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
 //targets the the hamburger id in the html and has the hamburger menu slide doown
   $('header nav ul li:first-child').click(function(){
     $("#hamburger").toggleClass("slideDown");
@@ -11,5 +12,4 @@ $(document).ready(function() {
 //  $( "#hero" ).click(function() {
 //      alert( "A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat. - Deep Nishar, UX at Linkedin" );
 //    });
-
 });
