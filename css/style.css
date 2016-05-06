@@ -120,10 +120,6 @@ h2 {
   padding-top: 165px;
 }
 
-#hero .contact {
-  color: #fff;
-}
-
 @keyframes slider {
 
 0% {
@@ -184,7 +180,6 @@ h2 {
 	text-align: left;
 	font-size: 0;
 	animation: 20s slider infinite;
-
 }
 
 #resume {
@@ -203,8 +198,6 @@ h5 {
 
 #resume ul {
   width: 728px;
-}
-#resume ul {
   list-style: disc;
   margin: 10px 0 30px 80px;
 }
